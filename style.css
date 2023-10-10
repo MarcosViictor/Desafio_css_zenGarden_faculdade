@@ -1,0 +1,207 @@
+body{
+    background-color: #333;
+    Padding: 0;
+    Margin: 0;
+    font-family: monospace;
+}
+.page-wrapper{
+    background-color: #4B0082;
+    margin: 0 auto;
+    width: 100%;
+    height: 100%;
+    background-image: url(/homer.png);
+    
+}
+
+ header{
+    background-color: #8B0000;
+    width: 100%;
+    height: 100px;
+    text-align: center;
+    display: block;
+    border: 60px;
+} 
+header h1{
+    font-size: 35px;
+    color: #FF00FF;
+}
+header h2{
+    font-size: 21px;
+    color: #BA55D3;
+    
+}
+.summary{
+    background-color: #00FF00;
+    width:800px;
+    height: 100px;
+    font-size: 14px;
+    padding: 10px;
+    margin-bottom: 12px;
+    margin-top: 12px;
+    border-style: dotted;
+}
+.preamble{
+    background-color: #EE82EE;
+    width: 800px;
+    height: 250px ;
+    border-style: dotted;
+    padding: 10px;
+    font-size: 15px;
+
+}
+.preamble h3{
+    color:#8A2BE2;
+    text-align: center;
+    font-size: 20px;
+}
+.explanation{
+    background-color: #EE82EE;
+    width: 800px;
+    margin-top: 13px;
+    height: 250px ;
+    border-style: dotted;
+    padding: 10px;
+    font-size: 15px;
+}
+.explanation h3{
+    color:#8A2BE2;
+    text-align: center;
+    font-size: 20px;
+}
+.participation{
+    background-color: #EE82EE;
+    width: 800px;
+    margin-top: 13px;
+    height: 295px ;
+    border-style: dotted;
+    padding: 10px;
+    font-size: 15px;
+}
+.participation h3{
+    color:#8A2BE2;
+    text-align: center;
+    font-size: 20px;
+}
+.benefits{
+    background-color: #EE82EE;
+    width: 800px;
+    margin-top: 13px;
+    height: 180px ;
+    border-style: dotted;
+    padding: 10px;
+    font-size: 15px; 
+}
+.benefits h3{
+    color:#8A2BE2;
+    text-align: center;
+    font-size: 20px;
+}
+.requirements{
+    background-color: #EE82EE;
+    width: 800px;
+    margin-top: 13px;
+    height: 450px ;
+    border-style: dotted;
+    padding: 10px;
+    font-size: 15px; 
+}
+.requirements h3{
+    color:#8A2BE2;
+    text-align: center;
+    font-size: 20px;
+}
+footer{
+   background-color: BlueViolet;
+   width: 100%;
+   height: 40px;
+   text-align: center;
+   padding-top: 30px;
+   font-size: 18px;
+}
+footer a{
+    text-decoration: none;
+    color: #00FF00;
+    
+}
+.wrapper{
+    width: 650px;
+    height: 450px;
+    position: absolute;
+    top: 275px; right: 10px; 
+}
+.design-selection{
+    background-color:#FF00FF;
+    width: 400px;
+    height: 300px;
+    border-style: dotted;
+}
+.design-selection h3{
+    text-align: center;
+    color: #00BFFF;
+    font-size: 20px;
+}
+.design-selection ul{
+    list-style-type: none;
+}
+.design-selection a{
+    text-decoration: none;
+}
+.design-selection ul li a{
+    color: #00FF00;
+    text-align: justify;
+    font-size: 18px;
+    border-style: groove;
+}
+.design-archives{
+    background-color:#FF00FF;
+    width: 200px;
+    height: 100px;
+    border-style: dotted;
+    margin-top: 12px;
+}
+.archives{
+    text-align: center;
+    color: #00BFFF;
+    font-size: 15px;
+
+}
+.design-archives ul{
+    list-style-type: none;
+}
+.design-archives a{
+    text-decoration: none;
+}
+.design-archives ul  a{
+    font-size: 14px;
+    color: #00FF00;
+    border-style: groove;
+    text-align: justify;
+    line-height: 20px;
+
+}
+.zen-resources{
+    background-color:#FF00FF;
+    width: 400px;
+    height: 300px;
+    border-style: dotted;  
+    margin-top: 12px;
+}
+.resources{
+    text-align: center;
+    color: #00BFFF;
+    font-size: 25px;
+}
+.zen-resources ul{
+    list-style-type: none;
+}
+.zen-resources a{
+    text-decoration: none;
+}
+.zen-resources ul li a{
+    color: #00FF00;
+    font-size: 20px;
+    text-align: justify;
+    border-style: double;
+    line-height: 40px;
+    
+}
